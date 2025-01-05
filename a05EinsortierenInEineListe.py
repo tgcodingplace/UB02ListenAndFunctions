@@ -16,7 +16,7 @@ def f5(liste, wert):
         return liste
 
     # Bei mindestens einem Wert lohnt es sich einzusortieren
-    # Wir fügen zunächst einen weiteren Platz ein
+    # Wir hängen zunächst einen weiteren Platz an
     liste.append(0)
     index = 0
 
